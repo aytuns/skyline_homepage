@@ -125,10 +125,13 @@ ul>li>a {
 	display: flex;
 	justify-content: center;
 }
-#click_me button{
-	background-color: rgb(71, 123, 237);
-	font-weight: bolder;
-	border-radius: .7em;
+#click_me > button{
+	background-color: rgb(94, 242, 111);
+	color: aliceblue;
+	font-size: .4em;
+	padding: 10px;
+	border-radius: 60em;
+	border: none;
 }
 /* THIRD SECTION */
 #body1 {
