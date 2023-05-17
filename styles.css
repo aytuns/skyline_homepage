@@ -138,8 +138,9 @@ ul>li>a {
 #body1 {
 	text-align: center;
 	justify-content: center;
+	margin:0;
 	font-size: 3em;
-	padding:1em;
+	padding:0em;
 	font-weight: bolder;
 }
 
