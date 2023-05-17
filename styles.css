@@ -72,7 +72,7 @@ ul>li>a {
 	display: hidden;
 	width: 2em;
 	height: 2em;
-	background: url(./images/menu_button.png) center;
+	background: url(./images/menu_button.png) center no-repeat;
 }
 
 /* SECOND SECTION */
@@ -344,6 +344,7 @@ ul>li>a {
 		position: absolute;
 		padding: .2em;
 		border-style: solid;
+		background-color: rgb(239, 243, 247);
 		border-color: rgb(131, 136, 240) ;
 		right:.5em;
 		top:1em;
