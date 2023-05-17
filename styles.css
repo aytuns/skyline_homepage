@@ -1,5 +1,6 @@
 /* BODY */
 body {
+	zoom: 25%;
 	background-color: rgb(246, 244, 242);
 	padding: 10px 50px;
 	font-size: 70px;
@@ -323,7 +324,7 @@ ul>li>a {
 	font-size: 1.2em;
 }
 /** MEDIA **/
-@media screen and (max-width: 220em) {
+@media screen and (max-width: 54em) {
 	#body5>div>p {
 		font-size: .6em;
 	}
