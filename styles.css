@@ -367,7 +367,7 @@ ul>li>a {
 
 @media screen and (max-width: 39em) {
 	#body3>p {
-		font-size: 1.8em;
+		font-size: 1.7em;
 	}
 	#body4_div>a{
 		font-size: .6em;
@@ -393,6 +393,7 @@ ul>li>a {
 	#body6_div2 {
 		display: grid;
 		padding:.09em;
+		justify-items: center;
 		gap: .1em;
 	}
 	.footer_div {
